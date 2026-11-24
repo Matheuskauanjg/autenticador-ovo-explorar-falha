@@ -1,0 +1,8 @@
+apks/
+*.apk
+*.apkm
+*.xapk
+*.aab
+*.log
+.env
+*.pass
